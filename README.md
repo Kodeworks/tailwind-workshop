@@ -123,3 +123,11 @@ $ npx -v
 
 Dersom du får et versjonsnummer for alle kommandoene er alt klart ✅  
 Hvis ikke, ta kontakt, så hjelper vi deg 🏃
+
+## Prettier
+
+📜 Åpne en terminal i rotmappen til prosjektet (`tailwind-workshop`) og kjør kommandoen:
+
+```console
+$ npm install
+```
