@@ -1,4 +1,5 @@
-# tailwind-workshop
+# Tailwind workshop
+
 ## Hjelpsomme tegn som går igjen
 
 - <details><summary>Klikk her for å se noe som er skjult</summary>
@@ -93,3 +94,32 @@ Vi har lagt opp til å bruke VSCode som kan [lastes ned herfra](https://code.vis
 - Det er enklere for oss å hjelpe til når vi bruker samme editor.
 </details>
 <br/>
+
+## VSCode extensions
+
+📜 Åpne mappen `tailwind-workshop` i VSCode. Det burde dukke opp en popup med anbefalte extensions, velg «install all».
+
+<details><summary>Hvis ikke kan du legge til anbefalte extensions individuelt</summary>
+
+> Trykk på lenken og trykk «install».
+
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+</details>
+<br/>
+
+## [Node](https://nodejs.org/en/download/)
+
+<br/>
+📜 Åpne en terminal, og kjør følgende kommandoer (uten $):
+
+```console
+$ node -v
+$ npm -v
+$ npx -v
+```
+
+Dersom du får et versjonsnummer for alle kommandoene er alt klart ✅  
+Hvis ikke, ta kontakt, så hjelper vi deg 🏃
