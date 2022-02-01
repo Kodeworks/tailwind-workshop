@@ -1,2 +1,3 @@
 node_modules
 /tailwind-konfigurasjon/dist/output.css
+/react-komponenter/node_modules
