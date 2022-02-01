@@ -144,3 +144,7 @@ Hvis ikke, ta kontakt, så hjelper vi deg 🏃
 ```console
 $ npm install
 ```
+
+## Steg 2: Gå løs på oppgaver!
+
+Starte med oppgavene i [kun-html](kun-html/README.md)-mappen
