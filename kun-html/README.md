@@ -109,7 +109,7 @@ Enn så lenge har vi et veldig enkelt oppsett, uten noen dedikert konfigurasjons
 
 <br/>
 
-📜 Legg til en tailwind-konfigurasjonen som har en farge ved navn `abakus` og verdi `#B21C17`, og bruk den for bakgrunn i steden for istedenfor arbitrary value.
+📜 Legg til en tailwind-konfigurasjonen som har en farge ved navn `abakus` og verdi `#B21C17`, og bruk den for bakgrunn i steden for i steden for arbitrary value.
 
 <details><summary>🙈 Løsningsforslag</summary>
 
