@@ -19,7 +19,7 @@ Et viktig poeng for en god utvikleropplevelse er _rask tilbakemelding_ - at det 
 
 <details><summary>💡 Kan være greit å få både oppgaven, filen som skal endres og nettleseren på samme skjerm</summary>
 
-![skjermdump av editor med oppgave, index.html og nettleser på samme skjerm](/bilder-til-readme/rask-tilbakemelding.png)
+![skjermdump av editor med oppgave, index.html og nettleser på samme skjerm](/bilder-til-readme/kun-html/rask-tilbakemelding.png)
 
 </details>
 <br/>
