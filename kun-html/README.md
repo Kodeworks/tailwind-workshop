@@ -149,11 +149,17 @@ Bytt ut `bg-[#B21C17]` i den ytterste diven med `bg-abakus`.
 
 ---
 
-📜 Legg på en [text-decoration](https://tailwindcss.com/docs/text-decoration) med `abakus`-[farge](https://tailwindcss.com/docs/text-decoration-color) og [style](https://tailwindcss.com/docs/text-decoration-style)
+📜 Legg på en [text-decoration](https://tailwindcss.com/docs/text-decoration) med `abakus`-[farge](https://tailwindcss.com/docs/text-decoration-color) og [style](https://tailwindcss.com/docs/text-decoration-style) på den innerste diven.
+
+<details><summary>💡 Et hint?</summary>
+
+Utilitien heter [text-decoration](https://tailwindcss.com/docs/text-decoration), men den brukes ved å legge på klassenavnet fra [dokumentasjonen](https://tailwindcss.com/docs/text-decoration) for den effekten man ønsker.
+
+</details>
 
 <details><summary>🙈 Løsningsforslag</summary>
 
-Vi kan f.eks. legge på `underline` for understrek, `decoration-abakus` for sette `abakus`-fargen og `decoration-wavy` fordi det er litt uvanlig!
+Vi kan f.eks. legge på `underline` for understrek, `decoration-abakus` for sette `abakus`-fargen på understreken, og `decoration-wavy` fordi det gjør understreken litt uvanlig!
 
 ```html
 <div
