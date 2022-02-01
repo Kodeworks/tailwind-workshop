@@ -592,7 +592,7 @@ Endre rounded fra f.eks. `rounded-3xl` til `rounded-r-3xl`.
 🎉 Vi har superkrefter!
 </details>
 
-## Oppgave X: Border
+## Oppgave 13: Border
 
 ---
 
