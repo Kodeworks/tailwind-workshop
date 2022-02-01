@@ -48,6 +48,11 @@ $ cd ..
 ```
 
 </details>
+<details><summary>💡 Hvordan få opp flere terminaler samtidig?</summary>
+
+Høyreklikk i terminalen i VSCode -> Velg «New Terminal» for å få den i en nye fane, eller «Split terminal» for å få to terminaler side om side.
+
+</details>
 <br/>
 
 ## Lese oppgaver
