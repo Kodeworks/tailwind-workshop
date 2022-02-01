@@ -12,6 +12,8 @@
 
 ## Noen vennlige ord
 
+- Ikke stress gjennom oppgavene. Du får best utbytte av å ikke hoppe rett på løsningsforslagene.
+- Vær nysgjerrig, trykk på lenker, ikke kjenn på at du må bli ferdig.
 - Løsningsforslag er forslag og ikke fasit.
 - Spør oss om hjelp! Spør sidemannen. Se på løsningsforslag. Google. Ikke sitt i frustasjonen for lenge!
 - Følg nysgjerrigheten, og still spørsmål. Det er du som skal lære og ha det gøy!
