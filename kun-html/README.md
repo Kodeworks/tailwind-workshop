@@ -328,7 +328,7 @@ I `mb-4` står `m` for margin, `b` for bottom og `-4` er [hvordan vi spesifisere
 
 Veldig enkelt forklart kan vi si at marginen er intimsonen til et element som illustrert [over](#liten-oppfrisker-om-css-box-model).
 
-📜 Legg til enda en til alert helt lik den vi allerede har.
+📜 Legg til en alert til som er helt lik den vi allerede har.
 
 <details><summary>🙈 Løsningsforslag</summary>
 
