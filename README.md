@@ -150,3 +150,4 @@ $ npm install
 ## Steg 2: Gå løs på oppgaver!
 
 Starte med oppgavene i [kun-html](kun-html/README.md)-mappen
+Fortsett med oppgavene med [tailwind-konfigurasjon](/tailwind-konfigurasjon/README.md)-mappen
