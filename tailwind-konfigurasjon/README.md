@@ -74,6 +74,7 @@ module.exports = {
 
 <br/>
 
+👀 Se at terminalvinduet som genererer CSS har skrevet `Rebuilding...` i terminalen.
 
 💡 Dersom du har stoppet prosessene vi startet i terminalen i [oppgave 1](#oppgave-1-kom-i-gang) eller [oppgave 2](#oppgave-2-generer-css) må du starte de igjen med kommandoen som står i oppgaven.
 
