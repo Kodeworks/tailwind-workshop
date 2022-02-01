@@ -19,7 +19,7 @@
 
 👀 Sjekk ut nettleseren!
 
-🎉 Vi har generert CSS med Tailwind og får egen konfigurasjonsfil!
+🎉 Vi har generert CSS med Tailwind og vår egen konfigurasjonsfil!
 
 ## Oppgave 3: Forms plugin
 
