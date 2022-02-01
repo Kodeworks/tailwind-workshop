@@ -13,6 +13,8 @@
 
 ## Oppgave 2: Generer CSS
 
+---
+
 📜 Åpne en ny terminal (den vi åpnet før må fortsette å kjøre), naviger til `/tailwind-konfigurasjon` og kjør kommandoen `npx tailwindcss -i ./src/tailwind.css -o ./dist/output.css --watch`
 
 💡 Hvordan? Se [Terminal på 1-2-3](../README.md).
@@ -72,7 +74,6 @@ module.exports = {
 
 <br/>
 
-👀 Se at terminalvinduet gemerer CSS har skrevet `Rebuilding...` i terminalen.
 
 💡 Dersom du har stoppet prosessene vi startet i terminalen i [oppgave 1](#oppgave-1-kom-i-gang) eller [oppgave 2](#oppgave-2-generer-css) må du starte de igjen med kommandoen som står i oppgaven.
 
