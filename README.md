@@ -52,7 +52,11 @@ $ cd ..
 
 ## Lese oppgaver
 
-Oppgavene er skrevet i markdown, og VSCode burde åpne markdown-filer i preview-mode automatisk. Dersom den ikke gjør det kan man åpne de [manuelt i preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) eller åpne de på [github](https://github.com/Kodeworks/tailwind-workshop).
+Oppgavene er skrevet i markdown, og VSCode burde åpne markdown-filer i preview-mode automatisk. Dersom den ikke gjør det kan man åpne de [manuelt i preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) ved å trykke på preview-knappen i VSCode som vist under.
+
+!["Hvordan åpne preview i markdown"](bilder-til-readme/open-preview-markdown.png)
+
+Oppgavene kan også lese på [github](https://github.com/Kodeworks/tailwind-workshop).
 
 ## Steg 0: [Klon repoet](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)
 
