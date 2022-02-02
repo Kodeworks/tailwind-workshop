@@ -213,3 +213,4 @@ Strekk på armene, ta en liten pause og pass på å få i deg noe mat å drikke!
 
 Herfra blir det mer press på deg for følge nysgjerrigheten og bruke ressurser, når vi i [steg 5](../README.md#steg-5-hent-mer-inspirasjon) skal hente mer inspirasjon før du i [steg 6](../README.md#steg-6-hopp-i-det--) skal utforske Tailwind-verdenen på egenhånd!
 
+Deretter er det på tide å fortsetter med [oppgavene i mappen /tailwind-konfigurasjonen](/tailwind-konfigurasjon/README.md), hvor vi dykker ned i hvordan vi kan konfigurere Tailwind ⚙️.
