@@ -4,9 +4,17 @@
 
 ---
 
-1. Åpne en terminal, naviger til `/tailwind-konfigurasjon` og kjør kommandoen `npx @compodoc/live-server --entry-file=src/index.html`
+1. Åpne denne mappen `/tailwind-konfigurasjon` i et eget VSCode-vindu
+
+   - <details><summary>💡 Åpne nytt VSCode-vindu</summary>
+
+     Åpne terminalen i `/tailwind-konfigurasjon` og kjør kommandoen «`code .`», eller velg «File» -> «New Window» i menyen øverst:
+     ![Åone eget VSCode-vindu](../bilder-til-readme/tailwind-konfigurasjon/new-window.png)</details>
+
+2. Åpne en terminal, naviger til `/tailwind-konfigurasjon` og kjør kommandoen `npm install`
+3. Kjør kommandoen `npx @compodoc/live-server --entry-file=src/index.html`
    - Tast inn `y` for å installere om det trengs
-2. Nettleseren burde åpne [index.html](index.html) automatisk.
+4. Nettleseren burde åpne [index.html](index.html) automatisk.
    - Hvis ikke, åpne nettleseren og naviger til lenken det vises til i terminalen. Sannsynligvis noe annet enn [http://0.0.0.0:8080](http://0.0.0.0:8080) om du allerede kjører live-server for en annen oppgave.
 
 🎉 Vi har et utgangspunkt! Men det ser glissent ut..
