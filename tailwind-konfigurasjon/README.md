@@ -122,3 +122,94 @@ De bygger opp den ferdige CSS-fila (`/dist/output.css`) ved bruk av [Functions &
  */
 @tailwind utilities;
 ```
+
+Det er veldig vanlig at nettsiden man lager skal følge en grafisk profil - slik som [Abakus sin grafiske profil](https://abakus.no/brand).  
+Med Tailwind kan vi utvide `@base` i [src/tailwind.css](src/tailwind.css) til å inkludere styles som alle elementer skal arve i henhold til den grafiske profilen.
+
+📜 Åpne [tailwind.config.js](/tailwind-konfigurasjon/tailwind.config.js) og legg til fargen `abakus-black` med verdi (`#0d0d0d`)
+
+<details><summary>💡 Fargenavn med bindestrek må være inni "fnutter"</summary>
+
+```javascript
+...
+  {
+    "abakus-black": ...
+  },
+...
+
+```
+
+</details>
+
+<br/>
+
+<details><summary>🙈 Løsningsforslag</summary>
+
+Endre `tailwind.config.js` for Tailwind til:
+
+```javascript
+module.exports = {
+  content: ["./src/**/*.{html,js}"],
+  theme: {
+    extend: {
+      colors: {
+        "abakus-black": "#0d0d0d",
+      },
+    },
+  },
+  plugins: [require("@tailwindcss/forms")],
+};
+```
+
+</details>
+
+<br/>
+
+📜 Se at du får autocomplete for `text-abakus` i VSCode når du begynner å skrive `text-ab` som et klassenavn 👀 .
+
+<details><summary>💡 Tips til feilsøking</summary>
+
+- Har du åpnet `/tailwind-konfigurasjon` i et eget VSCode-vindu? Det trengs for at intellisense-pluginen til VSCode skal finne `tailwind.config.js` som inneholder konfigurasjonen vår.
+- Spør om hjelp!
+
+</details>
+<br/>
+
+🎉 Vi har autocomplete som inkluderer våre egne tilpasninger!
+
+📜 Åpne [src/tailwind.css](src/tailwind.css) og legg til `abakus-svart` som [tekst-farge](https://tailwindcss.com/docs/text-color) og sett en større [tekst-størrelse](https://tailwindcss.com/docs/font-size) som styling for `<h1>`-taggen styling i `@base` som vist i [dokumentasjonen](https://tailwindcss.com/docs/preflight#extending-preflight)
+
+<details><summary>🙈 Løsningsforslag</summary>
+
+Endre `src/tailwind.css` til:
+
+```javascript
+module.exports = {
+  content: ["./src/**/*.{html,js}"],
+  theme: {
+    extend: {
+      colors: {
+        "abakus-black": "#0d0d0d",
+      },
+    },
+  },
+  plugins: [require("@tailwindcss/forms")],
+};
+```
+
+</details>
+
+<br/>
+
+👀 Se at tittelen på nettsida har blitt større og har fått en svart-fargen fra Abakus sin grafiske profil uten at vi har endret `<h1>`-taggen i [index.html](src/index.html)!
+
+🎉 Nå kan vi la være å skrive Tailwind-utilities for styling som følger det grafiske designet!
+
+# Hurra 🥳 !
+
+Du er gjennom andre del av workshopen om Tailwind! Vi har sett litt på hvordan vi kan konfigurere Tailwind.
+
+Strekk på armene, ta en liten pause og pass på å få i deg noe mat å drikke!
+
+Herfra blir det mer press på deg for følge nysgjerrigheten og bruke ressurser, når vi i [steg 5](../README.md#steg-5-hent-mer-inspirasjon) skal hente mer inspirasjon før du i [steg 6](../README.md#steg-6-hopp-i-det--) skal utforske Tailwind-verdenen på egenhånd!
+
