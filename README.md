@@ -121,7 +121,9 @@ Vi har lagt opp til å bruke VSCode som kan [lastes ned herfra](https://code.vis
 
 ## VSCode extensions
 
-📜 Åpne mappen `tailwind-workshop` i VSCode. Det burde dukke opp en popup med anbefalte extensions, velg «install all».
+📜 Åpne mappen `tailwind-workshop` i VSCode. Det burde dukke opp en popup med anbefalte extensions som vist under, velg «Install.
+
+![Popup med mulighet for å installere anbefalte extensions](bilder-til-readme/vscode-extensions.png)
 
 <details><summary>Hvis ikke kan du legge til anbefalte extensions individuelt</summary>
 
