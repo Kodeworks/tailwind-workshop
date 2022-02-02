@@ -590,6 +590,7 @@ Endre rounded fra f.eks. `rounded-3xl` til `rounded-r-3xl`.
 ```
 
 🎉 Vi har superkrefter!
+
 </details>
 
 ## Oppgave 13: Border
@@ -626,6 +627,14 @@ Endre padding fra f.eks. `text-sm` til `text-lg`.
 ```
 
 </details>
+<br/>
 
 🎉 Vi kan endre skriftstørrelse i Tailwind!
 
+# Hurra 🥳 !
+
+Du er gjennom første del av workshopen om Tailwind! Vi har sett litt på hvordan vi kan bruke Tailwind i HTML.
+
+Strekk på armene, ta en liten pause og pass på å få i deg noe mat å drikke!
+
+Deretter er det på tide å fortsetter med [oppgavene i mappen /tailwind-konfigurasjonen](/tailwind-konfigurasjon/README.md), hvor vi dykker ned i hvordan vi kan konfigurere Tailwind ⚙️.
