@@ -65,15 +65,22 @@ Høyreklikk i terminalen i VSCode -> Velg «New Terminal» for å få den i en n
 </details>
 <br/>
 
-
-
-## Steg 0: [Klon repoet](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)
+## Steg 1: [Klon repoet](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)
 
 ---
 
-Lag gjerne en kopi av repoet ved å [forke det](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository). Da kan du pushe endringer til din egen kopi.
+</details>
+<details><summary>💡 Ønsker du en egen kopi av repoet?</summary>
+
+---
+Helt frivillig: Om du ønsker en egen kopi av repoet tilknyttet din Github-konto, eller du ønsker å bruke git og pushe endringer er dette tidspunktet å [forke repoet](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
+
+Vi legger ikke opp til at du trenger git til mer enn å klone repoet.
 
 ![Fork-knapp på github](bilder-til-readme/fork.png)
+
+</details>
+<br/>
 
 📜 Klon repoet
 
