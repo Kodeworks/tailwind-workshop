@@ -165,7 +165,7 @@ module.exports = {
 
 <br/>
 
-📜 Se at du får autocomplete for `text-abakus` i VSCode når du begynner å skrive `text-ab` som et klassenavn 👀 .
+📜 Se at du får autocomplete for `text-abakus-black` i VSCode når du begynner å skrive `text-ab` som et klassenavn 👀 .
 
 <details><summary>💡 Tips til feilsøking</summary>
 
@@ -177,24 +177,24 @@ module.exports = {
 
 🎉 Vi har autocomplete som inkluderer våre egne tilpasninger!
 
-📜 Åpne [src/tailwind.css](src/tailwind.css) og legg til `abakus-svart` som [tekst-farge](https://tailwindcss.com/docs/text-color) og sett en større [tekst-størrelse](https://tailwindcss.com/docs/font-size) som styling for `<h1>`-taggen styling i `@base` som vist i [dokumentasjonen](https://tailwindcss.com/docs/preflight#extending-preflight)
+📜 Åpne [src/tailwind.css](src/tailwind.css) og legg til `abakus-black` som [tekst-farge](https://tailwindcss.com/docs/text-color) og sett en større [tekst-størrelse](https://tailwindcss.com/docs/font-size) som styling for `<h1>`-taggen styling i `@base` som vist i [dokumentasjonen](https://tailwindcss.com/docs/preflight#extending-preflight)
 
 <details><summary>🙈 Løsningsforslag</summary>
 
 Endre `src/tailwind.css` til:
 
-```javascript
-module.exports = {
-  content: ["./src/**/*.{html,js}"],
-  theme: {
-    extend: {
-      colors: {
-        "abakus-black": "#0d0d0d",
-      },
-    },
-  },
-  plugins: [require("@tailwindcss/forms")],
-};
+```CSS
+@tailwind base;
+
+@layer base {
+  h1 {
+    @apply text-abakus-black text-3xl;
+  }
+}
+
+@tailwind components;
+@tailwind utilities;
+
 ```
 
 </details>
