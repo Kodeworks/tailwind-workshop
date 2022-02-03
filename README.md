@@ -173,9 +173,7 @@ Vi fortsetter med å se på [oppgavene i mappen /tailwind-konfigurasjonen](/tail
 
 ---
 
-♻️ Vi sett at det er veldig enkelt å gjenbruke HTML som er stylet med Tailwind, og byggge videre på det for å lage noe eget.
-
-- [Dokumentasjonen](https://tailwindcss.com/docs/installation): Her har vi vært inne mye allerede
+♻️ Vi har sett at det er veldig enkelt å gjenbruke HTML som er stylet med Tailwind, og byggge videre på det for å lage noe eget.
 
 📜 Bruk litt tid på å se hva som er laget med Tailwind - hva som er mulig🌟 - som en forberedelse til neste oppgave.
 
@@ -225,7 +223,7 @@ Herfra blir det mer press på deg for følge nysgjerrigheten og bruke tilgjengel
 - [Responsivt design](https://tailwindcss.com/docs/responsive-design)
   - Tailwind er «responsive by design», hvordan håndterer vi at skjermstørrelsen varierer?
 - [Fargepalett](https://tailwindcss.com/docs/customizing-colors)
-  - Tailwind gjør det enkelt å jobbe med egne farger! Spesielt når man
+  - Tailwind gjør det enkelt å jobbe med egne farger!
 - [Flex og Grid](https://tailwindcss.com/docs/flex-basis)
   - Tailwind har gode utilities for å jobbe med layouts!
 - [Bilder](https://github.com/tailwindlabs/tailwindcss-aspect-ratio)
